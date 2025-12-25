@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=9d7bc1&style=flat-square" alt="访客"/>
+  <img src="https://komarev.com/ghpvc/?username=Patchouli-CN&label=Visitors&color=9d7bc1&style=flat-square" alt="访客"/>
 </p>
 
 ---
